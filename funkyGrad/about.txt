@@ -1,0 +1,3 @@
+FunkyGrad is neural net architecture build from scratch using only Python and Numpy.
+
+This'll be similiar project compared to George Hotz's tinygrad
